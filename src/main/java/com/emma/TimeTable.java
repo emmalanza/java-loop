@@ -9,7 +9,11 @@ public class TimeTable {
     }
 
     public List<String> getTimetable(int n) {
-        return new ArrayList<>();
+        List<String> result = new ArrayList<>();
+        for (int i = 1; i <= 10; i++) {
+            result.add(n + " x " + i + " = " + (n * i));
+        }
+        return result;
     }
     
 }
