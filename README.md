@@ -7,13 +7,13 @@ The implementation follows the Test-Driven Development (TDD) approach using JUni
 
 ## Features
 
-Generates a multiplication table from 1 to 10 for any given integer.
+- Generates a multiplication table from 1 to 10 for any given integer.
 
-Uses JUnit 5 for testing.
+- Uses JUnit 5 for testing.
 
-Ensures a minimum of 70% code coverage using Jacoco.
+- Ensures a minimum of 70% code coverage using Jacoco.
 
-Follows best practices with Maven as a build automation tool.
+- Follows best practices with Maven as a build automation tool.
 
 ## Requirements
 - Unit tests should be written for each method following TDD principles.
