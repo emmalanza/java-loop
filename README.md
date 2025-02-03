@@ -16,11 +16,6 @@ Ensures a minimum of 70% code coverage using Jacoco.
 Follows best practices with Maven as a build automation tool.
 
 ## Requirements
-
-Java 23
-
-Maven
-
-JUnit 5
-
-Jacoco (for code coverage)
+- Unit tests should be written for each method following TDD principles.
+- Code coverage must be at least 70%.
+- Commit messages should be clear and meaningful.
